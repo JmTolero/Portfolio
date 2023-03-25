@@ -1,0 +1,184 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url(../image/bg3.jpg);
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back li
+{
+    color: white;
+    font-size: 20px;
+    padding: 40px;
+    margin-left: 100px;
+
+}
+.box
+{
+    background-color: white;
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+    min-height: 1100px;
+    display: grid;  
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgba(0,0,0,0.2);
+    margin-left:320px ;
+    
+}
+.boxleftside
+{
+    background-color:rgb(228, 163, 163);
+    position: relative;
+    padding: 40px;
+}
+.profile
+{
+    width: 190px;
+    height:200px;
+    border-radius: 200px;
+}
+.name
+{  
+    color: white;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-bottom: solid rgb(236, 236, 236);
+    text-transform: capitalize;   
+}
+.contact
+{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+.contactinfo
+{
+    text-align: left;
+    color: white    ;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-bottom: solid rgb(236, 236, 236);
+}
+.fb
+{
+    width: 60px;
+    height: 60px;
+}
+.insta
+{
+    width: 105px ;
+    height: 60px;
+}
+.social
+{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+/*Rightside*/
+.boxrightside
+{
+    background-color: rgb(255, 255, 255) ;
+    position: relative;
+    padding: 40px;
+}
+.Obj
+{
+    padding-bottom: 20px;
+}
+.obj2
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-bottom: solid gray;
+}
+.personalinfo
+{
+    padding-top: 20px;
+}
+.personalinfo2
+{
+    padding-top: 30px;
+    border-bottom: solid gray;
+    padding-bottom: 20px;
+}
+.educ
+{
+    padding-top: 20px;
+}
+.educ1
+{
+    display: flex;
+    padding-top: 20px;
+    text-align: center;
+}
+.elem
+{
+    padding-right:100px;
+}
+.highsc
+{
+    display: flex;
+    padding-top:20px;
+    text-align: center;
+}
+.highsc1
+{
+    padding-right: 100px;
+}
+.college
+{
+    display: flex;
+    text-align: center;
+    padding-top: 20px;
+    border-bottom: solid gray;
+    padding-bottom: 20px;
+}
+.college1
+{
+    padding-right: 125px;
+}
+.workexp
+{
+    padding-top: 20px;
+}
+.exp
+{
+    display: flex;
+    text-align: center;
+    padding-top: 20px;
+}
+.exp1
+{
+    padding-left: 100px;
+}
+.expwaitress
+{
+    display: flex;
+    padding-top: 20px;
+    text-align: center;
+}
+.expwaitress1
+{
+    padding-left: 70px;
+}
+.expcashier
+{
+    display: flex;
+    text-align: center;
+    padding-top:20px;
+}
+.expcashier1
+{
+    padding-left: 150px;
+}
