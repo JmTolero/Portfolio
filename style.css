@@ -8,7 +8,7 @@ body
     margin:0;
     background-size: cover;
     background-color: rgb(255, 255, 255);
-    background-image: linear-gradient(rgba(0,0,0,0.26),transparent),url(../image/bghome.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.26),transparent),url(Poetfolio/image/bghome.jpg);
     background-repeat: no-repeat;
 }
 .navbar
