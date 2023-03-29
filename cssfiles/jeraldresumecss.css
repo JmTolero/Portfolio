@@ -3,6 +3,7 @@ body{
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Playfair Display', serif;
+    background-image: linear-gradient(gray,white,rgb(129, 112, 112));
 }
 .main{
     height: 1300px;
