@@ -5,7 +5,7 @@
 }
 body
 {
-    background-image: url(image/contactbg.jpeg);
+     background-image: linear-gradient(gray,white,rgb(129, 112, 112));
     background-size: cover;
     
 }
